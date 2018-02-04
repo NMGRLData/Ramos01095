@@ -1,0 +1,23 @@
+{
+    "H2": {
+        "center_dac": null, 
+        "center_signal": null, 
+        "high_dac": null, 
+        "high_signal": null, 
+        "low_dac": null, 
+        "low_signal": null, 
+        "points": "QHDiCkMaZhBAcOKJQwmE7UBw4wdDEOQPQHDjhUMYD5VAcOQEQx76vkBw5IJDJZllQHDlAUMrpblAcOV/QzAon0Bw5f1DNCecQHDmfEM3mbtAcOb6QzrIzEBw53lDPQYjQHDn90M/ddNAcOh1Q0GK+0Bw6PRDQoiyQHDpckNEPptAcOnxQ0UMqEBw6m9DRUeuQHDq7kNGROpAcOtsQ0acqkBw6+pDRvx3QHDsaUNHhS5AcOznQ0dnO0Bw7WZDR2gVQHDt5ENHmUdAcO5iQ0d7EEBw7uFDR6oIQHDvX0NH1mBAcO/eQ0dMG0Bw8FxDR62kQHDw2kNH3e5AcPFZQ0hPOkBw8ddDSCDCQHDyVkNHpxNAcPLUQ0ff1kBw81JDR6BfQHDz0UNHg1dAcPRPQ0e6lkBw9M5DR/BlQHD1TENHyOhAcPXKQ0d+vkBw9klDR8ITQHD2x0NICzRAcPdGQ0etL0Bw98RDR2cZQHD4QkNHW4pAcPjBQ0eJtkBw+T9DR9lmQHD5vkNHWT5AcPo8Q0dHUEBw+rpDR3ApQHD7OUNHnF5AcPu3Q0dpVUBw/DZDR2G2QHD8tENH2K1AcP0yQ0d/ukBw/bFDR0W9QHD+L0NGqv9AcP6uQ0dHYUBw/yxDR40gQHD/qkNHMI5AcQApQ0eIEkBxAKdDRznrQHEBJkNHORBAcQGkQ0dYY0BxAiJDRydqQHECoUNG25ZAcQMfQ0Z0G0BxA55DRazhQHEEHENE8BpAcQSbQ0RvFkBxBRlDQzrPQHEFl0NB8j1AcQYWQz/5zg=="
+    }, 
+    "L2(CDD)": {
+        "center_dac": null, 
+        "center_signal": null, 
+        "high_dac": null, 
+        "high_signal": null, 
+        "low_dac": null, 
+        "low_signal": null, 
+        "points": "QHDiCjmxbZ5AcOKJObFtnkBw4wc5sW2eQHDjhTmxbZ5AcOQEAAAAAEBw5IIAAAAAQHDlATsFEjhAcOV/OoUSN0Bw5f07BRI4QHDmfDsFEjhAcOb6O6ZWykBw53k70rI1QHDn9zwQKRlAcOh1PDb5GUBw6PQ8bmtlQHDpcjyH1/1AcOnxPMIQBkBw6m88zSbkQHDq7j0CTJ5AcOtsPR9oqUBw6+o9PeeTQHDsaT1dyV1AcOznPWpDHUBw7WY9lbTOQHDt5D2WZjxAcO5iPaF9IkBw7uE9paW5QHDvXz3EJLhAcO/ePbvTiUBw8Fw9yP6+QHDw2j3TZDpAcPFZPe5sGEBw8dc99gvcQHDyVj3x40NAcPLUPdxm2UBw81I96C8zQHDz0T32vUpAcPRPPfEx1EBw9M4+Cey/QHD1TD3mGudAcPXKPgRhR0Bw9kk+COKYQHD2xz4C/mlAcPdGPgRhR0Bw98Q+ADitQHD4Qj3/v+xAcPjBPfo0dUBw+T899VptQHD5vj3xMdRAcPo8PfxIwUBw+ro9/aufQHD7OT3/Dn1AcPu3PexXzEBw/DY99Kj+QHD8tD3mGudAcP0yPeumXUBw/bE9xupyQHD+Lz25vz1AcP6uPahrc0Bw/yw9oX0iQHD/qj2ToINAcQApPYDp4EBxAKc9eB+5QHEBJj1OieZAcQGkPSp/ikBxAiI9I5E9QHECoT0Dr3pAcQMfPONUoEBxA548ymEsQHEEHDzSslNAcQSbPJLu2kBxBRk8oMtuQHEFlzyH1/1AcQYWPHmCQQ=="
+    }, 
+    "fmt": ">ff", 
+    "reference_detector": "L2(CDD)", 
+    "reference_isotope": "Ar36"
+}
